@@ -1,2 +1,2 @@
 # react-expense-tracker
-Classic Tic-Tac-Toe game with simultaneous multi match support
+React based expense tracker frontend app with custom components and interactive Bar Graph
